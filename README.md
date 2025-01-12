@@ -2,7 +2,8 @@
 This is my personal project trying to create a software for Vibration Monitoring of system.
 
 Features:
-- Historical Trend - Alive
+- Historical Trend - Live
+- Vibration Generator - Live
 - Live Trend - Coming Soon
 - Vibration Measurement - Coming Soon
 - Main Screen - Coming Soon
